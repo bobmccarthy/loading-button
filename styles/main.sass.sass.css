@@ -1,0 +1,9 @@
+body {
+  margin: 2em 2em; }
+
+#button {
+  padding: 1.5em 1.5em;
+  background-color: #A3DE2C;
+  font-weight: bold;
+  font-size: 2em;
+  color: white; }
